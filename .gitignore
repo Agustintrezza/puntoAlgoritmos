@@ -4,6 +4,9 @@
 /out-tsc
 /bazel-out
 
+*.gitignore
+
+*.DS_Store
 .DS_Store
 
 # Node
