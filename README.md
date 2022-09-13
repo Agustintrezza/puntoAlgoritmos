@@ -1,0 +1,1 @@
+Los resultados se pueden ver por consola en el navegador, iniciando el archivo "index.html".
